@@ -95,7 +95,7 @@ Regression Plot (Correlation between rock and depression)
 
 Scatter Plot ( average age vs. mental health)
 
-Box Plot (frequenxt of listening between genres)
+Box Plot (frequency of listening between genres)
 
 Correlation Matrix (listening habits vs. mental health indicators)
 
