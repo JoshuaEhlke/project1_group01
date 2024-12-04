@@ -119,4 +119,12 @@ Seaborn
 
 ttest_ind
 
-**Installation**
+▶️ **Installation**
+Clone the repository: git clone https://github.com/JoshuaEhlke/project1_group01
+
+Install dependencies: pip install -r requirements.txt
+
+🙏 **Acknowledgments**
+
+Special thanks to the Kaggle community and our team members for their expertise and dedication to this project 🎶.
+
